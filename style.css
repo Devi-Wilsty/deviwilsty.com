@@ -10,7 +10,7 @@ html, body {
   	padding: 0;
   	background: rgb(60, 60, 60);
   	font-family: "tesla", sans-serif;
-  	color: rgb(var(--tx-trval, 27), var(--tx-tgval, 26), var(--tx-tbval, 26));
+  	color: rgb(27,26,26);
 	text-shadow:
 		var(--tx-sval, 1px) 0 rgb(var(--tx-srval, 255), var(--tx-sgval, 255), var(--tx-sbval, 255)),
 		calc(-1 * var(--tx-sval, 1px)) 0 rgb(var(--tx-srval, 255), var(--tx-sgval, 255), var(--tx-sbval, 255)),
