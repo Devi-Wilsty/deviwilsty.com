@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(27, 26, 26);
+
 
 }
 
